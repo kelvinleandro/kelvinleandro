@@ -33,6 +33,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="35" />
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="35" />
+
+  <img src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png" width="35" />
         
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="35" />
   
