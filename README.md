@@ -24,7 +24,7 @@
 ![React Native](https://img.shields.io/badge/React%20Native%20-%20black?style=flat&logo=react)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-black?style=flat&logo=tailwindcss)
 ![Styled Components](https://img.shields.io/badge/Styled_Components-white?style=flat&logo=styledcomponents&logoColor=DB7093)
-![Chakra UI](https://img.shields.io/badge/Chrakra_UI-319795?style=flat&logo=chakraui&logoColor=white)
+![Chakra UI](https://img.shields.io/badge/Chakra_UI-319795?style=flat&logo=chakraui&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=flat&logo=nextdotjs)
 ![Expo](https://img.shields.io/badge/Expo-000020?style=flat&logo=expo&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-white?style=flat&logo=linux&logoColor=black)
