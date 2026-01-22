@@ -10,6 +10,8 @@
 
 ## Languages and Tools
 
+### Python
+
 ![Python](https://img.shields.io/badge/Python-FFF?style=flat&logo=python&logoColor=FFF&labelColor=%233776AB&color=%233776AB)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
@@ -23,6 +25,9 @@
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&color=092E20)
 ![Flask](https://img.shields.io/badge/Flask-FFF?style=flat&logo=flask&logoColor=FFF&labelColor=%233BABC3&color=%233BABC3)
 ![FastAPI](https://img.shields.io/badge/FastAPI-%23FFF?style=flat&logo=fastapi&logoColor=FFF&labelColor=%23009688&color=%23009688)
+
+### Web/Mobile
+
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css&logoColor=FFF&labelColor=%23663399&color=%23663399)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -35,6 +40,9 @@
 ![Chakra UI](https://img.shields.io/badge/Chakra_UI-319795?style=flat&logo=chakraui&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=flat&logo=nextdotjs)
 ![Expo](https://img.shields.io/badge/Expo-000020?style=flat&logo=expo&logoColor=white)
+
+### Others
+
 ![Linux](https://img.shields.io/badge/Linux-white?style=flat&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=FFF)
 
