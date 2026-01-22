@@ -43,6 +43,7 @@
 
 ### Others
 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-FFF?style=flat&logo=postgresql&logoColor=FFF&labelColor=%234169E1&color=%234169E1)
 ![Linux](https://img.shields.io/badge/Linux-white?style=flat&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=FFF)
 
