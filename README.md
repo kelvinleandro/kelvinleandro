@@ -1,4 +1,6 @@
-<h1 align="center">Hello There! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px" width="30px"></h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&text=Hello%20there&reversal=false&textBg=false&animation=scaleIn"/>
+</p>
 
 <p>📍 Fortaleza, CE, Brazil</p>
 <p>💻 Computer Engineering Student at Universidade Federal do Ceará (UFC) </p>
