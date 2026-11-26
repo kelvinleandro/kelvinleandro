@@ -27,6 +27,7 @@
 ![LangChain](https://img.shields.io/badge/LangChain-%231c3c3c?style=flat&logo=langchain)
 ![LangGraph](https://img.shields.io/badge/LangGraph-%231c3c3c?style=flat&logo=langgraph)
 ![CrewAI](https://img.shields.io/badge/CrewAI-FF5A50?style=flat&logo=crewai&logoColor=FFF)
+![n8n](https://img.shields.io/badge/n8n-FF91AC?style=flat&logo=n8n&logoColor=000)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-black?style=flat&logo=scikitlearn)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy)
